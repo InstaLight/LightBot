@@ -5,6 +5,8 @@ const ddift = require('return-deep-diff');
 const chalk = require('chalk');
 require('./util/eventLoader')(client);
 
+//LigthBot created by InstaLight. Helped by {evie.codes}
+
 
 
 client.on('guildMemeberAdd', guild => {
